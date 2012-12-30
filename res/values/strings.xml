@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ParlorActivity!</string>
+    <string name="app_name">Parlor</string>
+    <string name="menu_save">Save</string>
+    <string name="top">Top</string>
+    <string name="my_area">My Area</string>
+    <string name="content">Content</string>
+    <string name="my_page">My Page</string>
+    <string name="search">Salon Search</string>
+    <string name="monitor">Monitor</string>
+    <string name="my_top_area">My Top Area</string>
+    <string name="campaign">Campaign</string>
+    <string name="nail_design">Nail Design</string>
+    <string name="blog">Blog</string>
+    <string name="enc">Encouragement</string>
+    <string name="moni_report">Monitoring Report</string>
+    <string name="m_album">My Album</string>
+    <string name="m_salon">My Salon</string>
+    <string name="commun">Community</string>
+    <string name="pro">Profile</string>
+    <string name="m_p_setting">My Page Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="snap_image">Snap Image</string>
+    <string name="list">Salon List</string>
+    <string name="home">Home</string>
+    
+
+</resources>

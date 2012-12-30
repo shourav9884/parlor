@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<item android:id="@+id/menu_save"
+          
+          android:title="@string/top"
+          android:showAsAction="ifRoom|withText" >
+           <menu>              
+               <item android:id="@+id/gallery1"
+				android:title="@string/home"/>
+                <item android:id="@+id/gallery"
+				android:title="@string/gallery"/>
+				 <item android:id="@+id/gallery2"
+				android:title="@string/snap_image"/>
+				<item android:id="@+id/gallery3"
+				android:title="@string/list"/>
+
+				                    
+              
+              </menu>
+           </item>
+<item android:id="@+id/menu_save2"
+          
+          android:title="@string/my_area"
+          android:showAsAction="ifRoom|withText" >
+    <menu>              
+                <item android:id="@+id/mtarea"
+				android:title="@string/my_top_area"/>
+				<item android:id="@+id/monitor"
+				android:title="@string/monitor"/>
+				<item android:id="@+id/campaign"
+				android:title="@string/campaign"/>                    
+              
+              </menu>
+</item>
+<item android:id="@+id/menu_save3"
+          
+          android:title="@string/my_page"
+          android:showAsAction="ifRoom|withText" >
+    <menu>              
+                <item android:id="@+id/test"
+				android:title="@string/m_album"/>
+				<item android:id="@+id/test2"
+				android:title="@string/m_salon"/>
+				<item android:id="@+id/test3"
+				android:title="@string/commun"/>                    
+				<item android:id="@+id/test4"
+				android:title="@string/pro"/>
+				<item android:id="@+id/test5"
+				android:title="@string/m_p_setting"/>
+              
+              </menu>
+</item>
+<item android:id="@+id/menu_save4"
+          
+          android:title="@string/content"
+          android:showAsAction="ifRoom|withText" />
+<item android:id="@+id/menu_save4"
+          
+          android:title="@string/search"
+          android:showAsAction="ifRoom|withText">
+    
+</item>
+</menu>
+
